@@ -1,0 +1,6 @@
+{
+  "name": "Route Planner PoC",
+  "description": "Multi-stop route planning and visualization",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
